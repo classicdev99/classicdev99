@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 A passionate full stack Developer</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi 👋 A passionate Full Stack Developer</h1>
 <p align="left">
 </p>
 
