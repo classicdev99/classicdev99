@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 A passionate Full Stack Developer</h1>
+<h1 align="center">Hi 👋 A passionate React/Blockchain Developer</h1>
 <p align="left">
 </p>
 
